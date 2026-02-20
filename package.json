@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/blackboard-unitec",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a blackboard-unitec",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/blackboard-unitec.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://exe2aut.com/es/blackboard-unitec/"
+    },
+    "homepage": "https://exe2aut.com/es/blackboard-unitec/"
+}
